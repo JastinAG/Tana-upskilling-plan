@@ -1,6 +1,3 @@
-// AI-Assisted Practice: Generate a type alias for a Vulnerability
-// with properties like id, severity, and url
-
 type Vulnerability = {
     id: number;
     severity: string;
